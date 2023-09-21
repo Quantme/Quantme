@@ -2,6 +2,32 @@
 
 ✨ Dart and Flutter ✨
 
+## About Me
+
+🚀 **Digital Transformation Enthusiast** | 💼 **Dart/Flutter Developer** | 🌐 **Web & Mobile Developer** | 🧠 **Continuous Learner**
+
+Welcome to my GitHub profile! With a career spanning three decades in the IT sector, I bring a wealth of experience and passion for technology to this digital space.
+
+### My Journey
+
+🔹 **Hardware Maven:** In my early years, I delved deep into hardware, building a solid foundation in computing.
+
+🎨 **Creative Maestro:** The next chapter saw me excel in graphic editing software, video production/editing, and audio mastering, crafting captivating visuals and pristine sound.
+
+🚀 **Digital Transformation Enthusiast:** Over the last decade, I've immersed myself in web and mobile development, constantly exploring the ever-evolving programming landscape. My focus is on creating innovative digital solutions that push boundaries.
+
+### What You'll Find Here
+
+Here on GitHub, you'll discover a collection of some projects (cannot wait to do more Rust and move on Assembly, C/C++, and Kotlin learning).
+
+I believe in the power of open-source collaboration and am always excited to learn from and contribute to the vibrant GitHub community.
+
+### Connect with Me
+
+Let's connect, collaborate, and explore the limitless possibilities of technology. Feel free to reach out here on GitHub or connect with me on [LinkedIn](https://www.linkedin.com/in/ivantc/) to continue the conversation.
+
+Thank you for visiting, and I look forward to sharing ideas and knowledge in this exciting digital realm!
+
 #### 🚀 Languages and Tools:
 
 <p align="left"> 
