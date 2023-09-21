@@ -1,6 +1,6 @@
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=quantme&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)-->
 
-✨ Dart and Flutter ✨
+<!--✨ Dart and Flutter ✨-->
 
 ## About Me
 
