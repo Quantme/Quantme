@@ -28,6 +28,8 @@ Let's connect, collaborate, and explore the limitless possibilities of technolog
 
 Thank you for visiting, and I look forward to sharing ideas and knowledge in this exciting digital realm!
 
+<!--![](https://komarev.com/ghpvc/?username=quantme)-->
+
 #### 🚀 Languages and Tools:
 
 <p align="left"> 
