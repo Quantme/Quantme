@@ -8,13 +8,13 @@
 
 ### What You'll Find Here
 
-Here on GitHub, you'll discover a collection of some projects (cannot wait to do more Rust and move on Assembly, C/C++, and Kotlin learning).
+Here on GitHub you'll find a collection of some projects (can't wait to learn more Rust and move on to Assembly, C/C++ and Kotlin).
 
-I believe in the power of open-source collaboration and am always excited to learn from and contribute to the vibrant GitHub community.
+I believe in the power of open source collaboration and am always excited to learn from and contribute to the vibrant GitHub community.
 
 
 
-Thank you for visiting, and I look forward to sharing ideas and knowledge in this exciting digital realm!
+Thank you for visiting and I look forward to sharing ideas and knowledge in this exciting digital space!
 
 <!--![](https://komarev.com/ghpvc/?username=quantme)-->
 
