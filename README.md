@@ -32,6 +32,8 @@ Thank you for visiting and I look forward to sharing ideas and knowledge in this
     <!-- <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png"/> </a> -->
     <!--<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/external-rust-is-a-multi-paradigm-system-programming-language-logo-shadow-tal-revivo.png"/> </a>-->
     <!--<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>-->
+    <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+    
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=quantme&show_icons=true&locale=en&layout=compact" alt="radikris" /></p>
 
